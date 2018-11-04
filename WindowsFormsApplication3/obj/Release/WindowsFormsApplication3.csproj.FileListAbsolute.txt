@@ -1,0 +1,11 @@
+c:\users\starry\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+c:\users\starry\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+c:\users\starry\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+c:\users\starry\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Newtonsoft.Json.dll
+c:\users\starry\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Newtonsoft.Json.xml
+c:\users\starry\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+c:\users\starry\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+c:\users\starry\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\starry\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\starry\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+c:\users\starry\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
